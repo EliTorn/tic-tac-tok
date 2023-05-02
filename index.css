@@ -1,0 +1,10 @@
+
+body{
+    background-color: aqua;
+    text-align: center;
+    padding: 100px;
+}
+button{
+    width: 100px;
+    height: 100px;
+}
